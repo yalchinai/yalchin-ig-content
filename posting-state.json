@@ -1,7 +1,7 @@
 {
-  "morning_last_day": 1,
+  "morning_last_day": 2,
   "evening_last_day": 1,
-  "last_run_at": "2026-07-25T17:03:30Z",
+  "last_run_at": "2026-07-27T13:30:00Z",
   "status": "ok",
   "notes": "Automation restarted from Day 1 per user instruction on 2026-07-23. Manual Day 1 test posts (photo+reel+stories) from earlier today are NOT counted here."
 }
