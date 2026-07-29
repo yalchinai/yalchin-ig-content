@@ -1,7 +1,7 @@
 {
-  "morning_last_day": 3,
+  "morning_last_day": 4,
   "evening_last_day": 3,
-  "last_run_at": "2026-07-28T16:03:00Z",
+  "last_run_at": "2026-07-29T06:52:00Z",
   "status": "ok",
-  "notes": "Automation restarted from Day 1 per user instruction on 2026-07-23. Manual Day 1 test posts (photo+reel+stories) from earlier today are NOT counted here."
+  "notes": "Day 4 morning story posted without flag/country overlay (overlay pipeline had a base64 double-encoding bug via GitHub file upload; user asked to skip flag and post plain image)."
 }
