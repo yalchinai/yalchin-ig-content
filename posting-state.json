@@ -1,7 +1,7 @@
 {
-  "morning_last_day": 4,
+  "morning_last_day": 5,
   "evening_last_day": 4,
-  "last_run_at": "2026-07-29T16:04:30Z",
+  "last_run_at": "2026-07-30T06:03:00Z",
   "status": "ok",
-  "notes": "Day 4 morning story posted without flag/country overlay (overlay pipeline had a base64 double-encoding bug via GitHub file upload; user asked to skip flag and post plain image). Day 4 evening reel + story posted successfully."
+  "notes": "Day 5 morning story posted (original image, no overlay)."
 }
